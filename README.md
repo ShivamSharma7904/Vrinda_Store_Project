@@ -1,1 +1,3 @@
 # Vrinda_Store_Project
+This project analyzes Vrinda Store's 2022 sales data in Excel to generate insights for improving sales in 2023. The analysis covers key business questions, such as monthly sales trends, customer demographics (age and gender), top-selling categories, sales channels, order status, and top-performing states.
+The workflow includes data cleaning (removing nulls and duplicates), data processing (creating age groups and month columns), and data analysis to answer questions like: which month had the highest sales, who purchased more (men or women), top 10 states contributing to sales, and the relationship between age, gender, and orders. This project demonstrates practical skills in Excel-based sales analysis and reporting.
